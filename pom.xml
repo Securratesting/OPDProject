@@ -16,10 +16,7 @@
     <version>7.4.0</version>
     <scope>test</scope>
 </dependency>
-	<dependency>
-		<groupId>opd</groupId>
-		<artifactId>OPDWEB</artifactId>
-		<version>0.0.1-SNAPSHOT</version>
-	</dependency>
+
+	
 </dependencies>
 </project>
